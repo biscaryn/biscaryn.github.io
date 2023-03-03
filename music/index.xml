@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jay&#39;s music on Jay Yeung</title>
+    <link>https://jayyeung.com/music/</link>
+    <description>Jay Yeung (Jay&#39;s music)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <atom:link href="https://jayyeung.com/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chopin&#39;s Nocturne in C sharp minor</title>
+      <link>https://jayyeung.com/music/nocturne-c-sharp-minor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayyeung.com/music/nocturne-c-sharp-minor/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Cp0ecAWJ2m0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
